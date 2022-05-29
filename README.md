@@ -13,7 +13,7 @@
   - [fireship](https://www.youtube.com/c/Fireship)
 
 
-# Interships:
+# Internships:
 ## Technical Interviews:
 ### Behavioral Questions:
   - [STAR Method of answering questions](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
