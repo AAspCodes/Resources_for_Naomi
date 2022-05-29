@@ -29,3 +29,9 @@
   - [Coding Interview Tips](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 ### Some Resource from my Internship Readiness course:
   - see CSE 492 folder
+
+
+
+# Tools/Technologies to learn:
+- git
+- will add more later
