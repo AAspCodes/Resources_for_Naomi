@@ -2,7 +2,7 @@
 
 # Media:
 ## Films:
-- "Hidden Figures" available on DisneyPlus, the story of how few black women mathmatician/Computer Scientists, were crucial to the Apollo mission.
+- "Hidden Figures" available on DisneyPlus, the story of how a couple black women mathmaticians/computer scientists were critical in making the Apollo missions possible.
 
 ## Youtube:
 ### Videos:
@@ -10,7 +10,12 @@
   - [I suck at coding](https://youtu.be/GvBgPBVcjEM)
   - [hidden history of women in tech](https://www.youtube.com/watch?v=7YPlrs9-IVM&ab_channel=TEDArchive)
 ### Channels:
-  - [fireship](https://www.youtube.com/c/Fireship)
+  - [fireship](https://www.youtube.com/c/Fireship): great for quick intros to a topic/language/tool
+  - [crash course: computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&ab_channel=CrashCourse): very approachable quick overview of the full range of computer science areas of focus.
+  - [crash course: Artifical Intelligence](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&ab_channel=CrashCourse): same idea as the above, but focused on AI/Machine Learning
+  - [missing semester](https://www.youtube.com/c/MissingSemester): college lectures about topics that don't get covered in most CSE programs.
+  - [tech with tim](https://www.youtube.com/c/TechWithTim): good for learning python
+  - [free code camp](https://www.youtube.com/c/Freecodecamp): great for LONG(very long) form in-depth tutorials
 
 
 # Internships:
@@ -29,9 +34,16 @@
   - [Coding Interview Tips](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 ### Some Resource from my Internship Readiness course:
   - see CSE 492 folder
+  - contains lecuture slide deck (sadly the lecture recordings are no longer available)
+  - resume and career guide made by the instructor whom is also the recruiter who recruited me for my internship.
 
 
 
-# Tools/Technologies to learn:
+# Tools/Technologies consider learning:
 - git
-- will add more later
+- bash/command line interface/terminal
+- i'll add more later
+
+
+# Sites I love:
+- [Sololearn](https://www.sololearn.com/): my first stop (after [fireship](https://www.youtube.com/c/Fireship)) when i decide to learn a new language. This site has great gamified tutorials for learning the basics of a language.
