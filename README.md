@@ -30,6 +30,7 @@
   -  We don't need to reinvent the wheel, we just need to get good at recognizing when a wheel is a solution.
   -  As you work through the puzzles, speak outloud everything you are thinking. It feels unatural but it is great practice for interviews.
   - [leetcode](https://leetcode.com/): most popular.
+  - [coding puzzle short list](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
   - [hackerank](https://www.hackerrank.com/): similar to leetcode but has better solution explanations imo.
   - [Coding Interview Tips](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 ### Some Resource from my Internship Readiness course:
